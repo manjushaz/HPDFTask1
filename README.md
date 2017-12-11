@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+At the start My App shows a twitter clone page. 
+To get to the search page, click twice on the search icon on the navigation bar.
+Then it takes you to the search page. If you click once again on the search icon it display twitter home page. This way it toggles between home page and search page.
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
